@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Hamzairshad1
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning back end or mainly python.
+- 📫 If you want to reach me dm me on syc0_wolf on instagram
